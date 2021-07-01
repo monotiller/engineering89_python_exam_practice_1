@@ -1,5 +1,5 @@
 # Exam 1 practice
-These are practice exam questions and answers for the first course exam taking place on the 2^nd July 2021
+These are practice exam questions and answers for the first course exam taking place on the 2<sup>nd</sup> July 2021
 
 ## Question 1
 Declare a function called username that takes one argument as a string and return the name
